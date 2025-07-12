@@ -7,6 +7,7 @@ This project was designed to showcase beautiful travel destinations, provide smo
 
 ##  Preview
 
+<img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/00e1d768-4b7d-4238-af94-354fefbe80ce" />
 
 
 ---
